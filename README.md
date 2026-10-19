@@ -12,3 +12,4 @@ Amatör radyo, SDR ve DATV çalışmaları için kısa, doğrulanabilir başvuru
 - [VSWR](notes/vswr.md) — VSWR, dönüş kaybı ve uyumsuzluk kaybı tablosu
 - [Radio horizon](notes/radio-horizon.md) — Radyo ufku ve Fresnel bölgesi formülleri
 - [ADALM-Pluto](notes/pluto.md) — Pluto temel bilgileri ve AD9364 kapsamı
+- [Q codes](notes/q-codes.md) — Sık kullanılan Q kodları
