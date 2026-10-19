@@ -11,3 +11,4 @@ Amatör radyo, SDR ve DATV çalışmaları için kısa, doğrulanabilir başvuru
 - [FSPL](notes/fspl.md) — Serbest uzay yol kaybı ve basit bağlantı bütçesi
 - [VSWR](notes/vswr.md) — VSWR, dönüş kaybı ve uyumsuzluk kaybı tablosu
 - [Radio horizon](notes/radio-horizon.md) — Radyo ufku ve Fresnel bölgesi formülleri
+- [ADALM-Pluto](notes/pluto.md) — Pluto temel bilgileri ve AD9364 kapsamı
