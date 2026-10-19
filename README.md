@@ -6,3 +6,4 @@ Amatör radyo, SDR ve DATV çalışmaları için kısa, doğrulanabilir başvuru
 
 - [QO-100](notes/qo-100.md) — NB/WB transponder frekansları, işaretler ve LNB IF dönüşümü
 - [Maidenhead](notes/maidenhead.md) — Lokatör ızgarası ve hesaplama adımları
+- [DVB-S2 MODCOD](notes/dvbs2-modcod.md) — ETSI EN 302 307-1 Es/N0 eşik tablosu
