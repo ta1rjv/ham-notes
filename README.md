@@ -10,3 +10,4 @@ Amatör radyo, SDR ve DATV çalışmaları için kısa, doğrulanabilir başvuru
 - [Symbol rate](notes/symbol-rate.md) — Sembol hızı, roll-off, bant genişliği ve bit hızı
 - [FSPL](notes/fspl.md) — Serbest uzay yol kaybı ve basit bağlantı bütçesi
 - [VSWR](notes/vswr.md) — VSWR, dönüş kaybı ve uyumsuzluk kaybı tablosu
+- [Radio horizon](notes/radio-horizon.md) — Radyo ufku ve Fresnel bölgesi formülleri
