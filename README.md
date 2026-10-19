@@ -13,3 +13,4 @@ Amatör radyo, SDR ve DATV çalışmaları için kısa, doğrulanabilir başvuru
 - [Radio horizon](notes/radio-horizon.md) — Radyo ufku ve Fresnel bölgesi formülleri
 - [ADALM-Pluto](notes/pluto.md) — Pluto temel bilgileri ve AD9364 kapsamı
 - [Q codes](notes/q-codes.md) — Sık kullanılan Q kodları
+- [Phonetic alphabet](notes/phonetic.md) — ITU fonetik alfabesi
